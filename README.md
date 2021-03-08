@@ -12,4 +12,10 @@ which the code is created in python. The results are shown below.
 
 ![161](https://user-images.githubusercontent.com/53141800/110339796-8f9a7180-804e-11eb-832f-4ea974260a72.PNG)
 
+The above image shows the simulation environment developed using the turtlebot 
+
+The results of the dijkstar algorithm 
+
+
+
 
