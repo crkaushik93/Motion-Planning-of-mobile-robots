@@ -10,7 +10,6 @@ We discussed the
 Motion planning of mobile robots and a project where  we are finding the motion planning by using the Dijkstra's Algorithm and The A Star (A*) algorithm for 
 which the code is created in python. The results are shown below.
 
-
-https://github.com/crkaushik93/Motion-Planning-of-mobile-robots/issues/1#issue-824655396
+![161](https://user-images.githubusercontent.com/53141800/110339796-8f9a7180-804e-11eb-832f-4ea974260a72.PNG)
 
 
