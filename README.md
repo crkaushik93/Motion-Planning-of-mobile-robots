@@ -19,6 +19,11 @@ The results of the dijkstar algorithm
 ![23](https://user-images.githubusercontent.com/53141800/110340962-d89ef580-804f-11eb-8241-3cb581490fa8.PNG)
 ![24](https://user-images.githubusercontent.com/53141800/110340966-da68b900-804f-11eb-837e-656a00943a11.PNG)
 
+the results of astar algorithm
+
+![25](https://user-images.githubusercontent.com/53141800/110341137-084dfd80-8050-11eb-9c81-de3fb3111664.PNG)
+![26](https://user-images.githubusercontent.com/53141800/110341144-097f2a80-8050-11eb-85ca-ff2264f654eb.PNG)
+
 
 
 
