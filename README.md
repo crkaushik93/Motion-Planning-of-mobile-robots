@@ -24,6 +24,12 @@ the results of astar algorithm
 ![25](https://user-images.githubusercontent.com/53141800/110341137-084dfd80-8050-11eb-9c81-de3fb3111664.PNG)
 ![26](https://user-images.githubusercontent.com/53141800/110341144-097f2a80-8050-11eb-85ca-ff2264f654eb.PNG)
 
+Grid Method and Sampling Motion planning
+
+We have created an simulation environment and created an astar algorithm to find the path to the gaol as projected by the user.The results and the environment used by the user is shown below:
+
+
+
 
 
 
