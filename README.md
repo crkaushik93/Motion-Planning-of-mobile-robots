@@ -32,11 +32,15 @@ We have created an simulation environment and created an astar algorithm to find
 
 Using the graphical properties rviz we can navigate through the motion of the mobile robot
 
+![30](https://user-images.githubusercontent.com/53141800/110341496-667ae080-8050-11eb-97c9-9dad94572ccc.PNG)
+
 Using the 2d pose estimate we can navigate the pose of the mobile robot which we can see in below figure
 
-![29](https://user-images.githubusercontent.com/53141800/110341489-64b11d00-8050-11eb-8982-91ae5c79cc08.PNG)
-![30](https://user-images.githubusercontent.com/53141800/110341496-667ae080-8050-11eb-97c9-9dad94572ccc.PNG)
 ![31](https://user-images.githubusercontent.com/53141800/110341500-67137700-8050-11eb-8ba2-0975d82405b6.PNG)
+
+Using the 2D nav goal we can find the path chosen by the robot to reach the end goal defined by the user.
+
+![29](https://user-images.githubusercontent.com/53141800/110341489-64b11d00-8050-11eb-8982-91ae5c79cc08.PNG)
 ![32](https://user-images.githubusercontent.com/53141800/110341503-67ac0d80-8050-11eb-8465-452d9b237c70.PNG)
 
 
