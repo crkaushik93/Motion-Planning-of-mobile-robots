@@ -28,6 +28,12 @@ Grid Method and Sampling Motion planning
 
 We have created an simulation environment and created an astar algorithm to find the path to the gaol as projected by the user.The results and the environment used by the user is shown below:
 
+![29](https://user-images.githubusercontent.com/53141800/110341489-64b11d00-8050-11eb-8982-91ae5c79cc08.PNG)
+![30](https://user-images.githubusercontent.com/53141800/110341496-667ae080-8050-11eb-97c9-9dad94572ccc.PNG)
+![31](https://user-images.githubusercontent.com/53141800/110341500-67137700-8050-11eb-8ba2-0975d82405b6.PNG)
+![32](https://user-images.githubusercontent.com/53141800/110341503-67ac0d80-8050-11eb-8465-452d9b237c70.PNG)
+![33](https://user-images.githubusercontent.com/53141800/110341504-67ac0d80-8050-11eb-86da-61ecbed7f157.PNG)
+
 
 
 
